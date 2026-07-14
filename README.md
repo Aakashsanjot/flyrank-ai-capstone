@@ -15,6 +15,10 @@ This repository contains my internship capstone project.
 - Follow Conventional Commits
 - Build production-ready software
 
+## Installation
+
+npm install
+
 ## Author
 
 Aakash Sanjot# flyrank-ai-capstone
