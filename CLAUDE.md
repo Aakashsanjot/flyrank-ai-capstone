@@ -25,3 +25,7 @@ Use Cursor AI for:
 - Documentation
 - Code review
 - Debugging
+
+## Formatting
+
+Use Prettier style formatting.
